@@ -1,5 +1,4 @@
-# **Proyecto-de-Interactividad-en-el-DOM
-**
+# **Proyecto-de-Interactividad-en-el-DOM**
 
 ## 🌟 **Descripción**
 Este proyecto es la complejización de un sitio web interactivo de un estudio de cerámica llamado **Sarah Glass Ceramics**, realizado bajo una consigna previa de clonar una OnePage.
